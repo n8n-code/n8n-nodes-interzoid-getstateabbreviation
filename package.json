@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-interzoid-getstateabbreviation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API returns two-letter state/province abbreviations for standardization, queries, analytics, and data merging.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-interzoid-getstateabbreviation",
